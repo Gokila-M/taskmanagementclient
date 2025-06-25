@@ -105,7 +105,7 @@ const handleSubmit = async () => {
 
         <div>
           <MDBBtn tag="a" color="none" className="mx-3" style={{ color: 'white' }}>
-            <MDBIcon fab icon="facebook-f" size="md" />
+            <MDBIcon fab icon="linkedin-in" size="md" />
           </MDBBtn>
 
           <MDBBtn tag="a" color="none" className="mx-3" style={{ color: 'white' }}>
@@ -117,7 +117,7 @@ const handleSubmit = async () => {
           </MDBBtn>
 
           <MDBBtn tag="a" color="none" className="mx-3" style={{ color: 'white' }}>
-            <MDBIcon fab icon="linkedin-in" size="md" />
+            <MDBIcon fab icon='github' size="md" />
           </MDBBtn>
         </div>
       </div>
