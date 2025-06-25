@@ -44,7 +44,7 @@ if (taskId) {
       <MDBRow className="w-100 justify-content-center">
         <MDBCol md="6" lg="5" xl="4">
           <div className="bg-white p-4 shadow rounded">
-            {taskId?<h4 className="text-center text-primary fw-bold mb-4">Update Task</h4>:<h4 className="text-center text-primary fw-bold mb-4">New Tak Create</h4>}
+            {taskId?<h4 className="text-center text-primary fw-bold mb-4">Update Task</h4>:<h4 className="text-center text-primary fw-bold mb-4">New Task Create</h4>}
             <MDBInput
               wrapperClass="mb-3"
               label="Task Name"
