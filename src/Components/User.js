@@ -35,7 +35,7 @@ const Dashboard = () => {
 
   return (
     <div className="dashboard-container">
-      {/* Static Sidebar */}
+     
       <div className="sidebar">
         <h4 className="mb-4">Dashboard</h4>
         <ul className="list-unstyled ps-3">
